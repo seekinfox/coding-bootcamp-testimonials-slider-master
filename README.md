@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://seekinfox.github.io/coding-bootcamp-testimonials-slider-master/](https://seekinfox.github.io/coding-bootcamp-testimonials-slider-master/)
+- Live Site URL: [https://github.com/seekinfox/coding-bootcamp-testimonials-slider-master](https://github.com/seekinfox/coding-bootcamp-testimonials-slider-master)
 
 ### Built with
 
