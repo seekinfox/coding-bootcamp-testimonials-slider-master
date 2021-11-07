@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+![https://raw.githubusercontent.com/seekinfox/coding-bootcamp-testimonials-slider-master/main/Screenshot_2021-11-07%20Frontend%20Mentor%20Coding%20Bootcamp%20Testimonials%20Slider(1).png](https://raw.githubusercontent.com/seekinfox/coding-bootcamp-testimonials-slider-master/main/Screenshot_2021-11-07%20Frontend%20Mentor%20Coding%20Bootcamp%20Testimonials%20Slider(1).png)
+![https://raw.githubusercontent.com/seekinfox/coding-bootcamp-testimonials-slider-master/main/Screenshot_2021-11-07%20Frontend%20Mentor%20Coding%20Bootcamp%20Testimonials%20Slider.png](https://raw.githubusercontent.com/seekinfox/coding-bootcamp-testimonials-slider-master/main/Screenshot_2021-11-07%20Frontend%20Mentor%20Coding%20Bootcamp%20Testimonials%20Slider.png)
 
 
 ### Links
